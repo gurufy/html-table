@@ -15,12 +15,12 @@
 ## Релиз 1
 - Создай список как указано в примере ниже.
 
-[<img src="/readme-assets/registration.png" width="400"/>](/readme-assets/list.png)
+[<img src="/readme-assets/list.png" width="400"/>](/readme-assets/list.png)
 
 ## Релиз 2
 - Создай таблицу в которой будет 2-е колонки: города, градусы
 
-[<img src="/readme-assets/table-2.png" width="400"/>](/readme-assets/table-1.png)
+[<img src="/readme-assets/table-1.png" width="400"/>](/readme-assets/table-1.png)
 
 ## Релиз 3
 - Добавь к таблице колонку с изображениями погоды (см папку img)
